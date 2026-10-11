@@ -1,0 +1,14 @@
+# Ignore by folder name
+node_modules/
+dist/
+build/
+
+# Ignore by ext
+*.doc
+*.log
+# *.txt
+
+# Ignore by file name
+.env
+.env.production
+
